@@ -58,7 +58,7 @@ The dataset contains movie-related information such as:
 
 ---
 
-[Live Demo](https://movie-recommendation-system-2-x1h0.onrender.com/)
+## Live Demo: [Live Demo](https://movie-recommendation-system-2-x1h0.onrender.com/)
 
 ## ▶️ How to Run the Project
 
