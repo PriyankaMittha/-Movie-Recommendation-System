@@ -3,7 +3,7 @@ import gzip
 import pickle
 import pandas as pd
 
-with open("movie_data.pkl", "rb") as file:
+with open("models/movie_data.pkl", "rb") as file:
     movies_dict, similarity = pickle.load(file)
 movies = pd.DataFrame(movies_dict)
 
